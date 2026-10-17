@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nilaynishant/acrs/blob/main/00_hello_colab.ipynb)
 
-Hands-on Python notebooks for the **ACRS 2026 Training Workshop on GeoAI for Future Earth**, organised by NESAC (14 October 2026). The series covers cloud-native satellite image analysis using open-source Python tools — from Colab basics to creating publication-ready median composites.
+Hands-on Python notebooks for the **ACRS 2026 Training Workshop on GeoAI for Future Earth**. The series covers cloud-native satellite image analysis using open-source Python tools — from Colab basics to creating publication-ready median composites.
 
 ---
 
@@ -16,13 +16,6 @@ Hands-on Python notebooks for the **ACRS 2026 Training Workshop on GeoAI for Fut
 | 03 | [Median Composite](03_median_composite.ipynb) | Area-of-interest loading, multi-scene compositing, clipping to a boundary, COG export |
 
 All notebooks open directly in **Google Colab** via the badge links at the top of each file — no local installation needed.
-
----
-
-## Study Areas
-
-- **Amity University, Noida** — used in notebook 00 (25 km × 25 km Sentinel-2 scene, January 2023)
-- **Delhi NCR districts** — used in notebooks 01–03 (New Delhi district boundary from `Data/`)
 
 ---
 
@@ -80,13 +73,5 @@ jupyter notebook
 | [Dask](https://www.dask.org) | Parallel & lazy computation |
 | [GeoPandas](https://geopandas.org) | Vector data handling (AOI boundaries) |
 
----
 
-## Data Sources
 
-- **Sentinel-2 imagery** — [Sentinel-2 Collection 1 L2A](https://registry.opendata.aws/sentinel-2/) on AWS, accessed via [Earth Search STAC API](https://earth-search.aws.element84.com/v1) (free, no credentials required)
-- **Delhi district boundaries** — Administrative boundary data for Delhi NCR
-
----
-
-*NESAC · ACRS Training Workshop · October 2026*
