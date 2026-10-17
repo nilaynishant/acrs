@@ -1,6 +1,6 @@
 # GeoAI for Future Earth – ACRS 2026 Training Notebooks
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nilaynishant/acrs/blob/main/00_hello_colab.ipynb)
+
 
 Hands-on Python notebooks for the **ACRS 2026 Training Workshop on GeoAI for Future Earth**. The series covers cloud-native satellite image analysis using open-source Python tools — from Colab basics to creating publication-ready median composites.
 
